@@ -1,7 +1,7 @@
 # Objective
 Creating a dashboard for HR and checking the status of a company's employees.
 
-## KPI's Requirement
+## KPIs Requirement
 1. Employee Count
 2. Attrition Count
 3. Attrition Rate
